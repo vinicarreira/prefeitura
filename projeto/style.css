@@ -570,3 +570,61 @@ footer {
     text-decoration: none;
     color: white;
 }
+
+/* Jeffersom Bueno - Jogos */
+
+#maps1 {
+    margin-right: 200px;
+}
+
+
+#maps2 {
+    margin-right: 200px;
+}
+
+
+#maps3 {
+    margin-right: 200px;
+}
+
+.gmap_canvas {
+    border: 3px solid rgb(0, 0, 0);
+    box-shadow: 2px 2px 8px black;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+
+.texto {
+    display: flex;
+}
+
+.geo {
+    margin-left: 150px;
+    margin-top: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.direita {
+    margin-left: 10%;
+    margin-top: 100px;
+    line-height: 35px;
+}
+
+.imgJogo {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+    
+   
+}
+
+.imgJogo1 img {
+    border: 3px solid rgb(0, 0, 0);
+    box-shadow: 2px 2px 8px black;
+    width: 400px;
+    height: 200px;
+    
+    
+}
